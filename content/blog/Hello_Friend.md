@@ -3,8 +3,6 @@ title: "Introduction To Our Website"
 date: 2023-01-04T10:37:27+01:00
 draft: false
 author: ["Salim Zaidi"]
-tags:
-- Linux
 ---
 ## Please Read This:
 **Welcome to our club website!** We are excited to share all of the great events and activities that our club has to offer.   
