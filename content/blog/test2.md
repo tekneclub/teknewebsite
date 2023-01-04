@@ -1,7 +1,6 @@
 ---
 title: "This is another test"
 date: 2023-01-04T02:05:06-05:00
-tags: ["linux", "python"]
 ---
 
 ## Lorem Ipsum

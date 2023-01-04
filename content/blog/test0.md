@@ -1,8 +1,9 @@
 ---
 title: "TEST"
 date: 2023-01-04T03:04:10-05:00
-tags: ["linux", "python"]
-author: ["Salim Zaidi"]
+tags:
+ - Linux
+ - Python
 ---
 
 ## Lorem Ipsum

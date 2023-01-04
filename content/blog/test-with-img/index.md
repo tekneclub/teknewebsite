@@ -1,8 +1,8 @@
 ---
 title: "Post with Images Example"
 date: 2023-01-04T04:04:16-05:00
-tags: ["images"]
-series: ["example posts"]
+tags:
+ - Images
 ---
 
 Images can be added to posts using Markdown syntax:
