@@ -16,4 +16,4 @@ If you have any questions or suggestions for our website, please don't hesitate 
 We appreciate your patience and support as we continue to build and improve our website. We can't wait to share all of the great things that our club has to offer with you. _**Thank you for visiting!**_
 ![StayTuned](/stay-tuned.jpg)
 
-<img src="/stay-tuned.jpg" width="600">
+<img src="/stay-tuned.jpg" width="700">
