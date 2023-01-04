@@ -12,7 +12,7 @@
     {{ if .Params.author }}
     <h4 class="title is-4">
         {{ $data := .Params.author }}
-        By&nbsp;{{- range first 1 $data -}}
+        Author:&nbsp;{{- range first 1 $data -}}
             {{ . | markdownify }}
         {{- end -}}
         {{- range after 1 $data -}}
