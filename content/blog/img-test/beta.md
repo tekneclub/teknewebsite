@@ -6,15 +6,17 @@ author: [""]
 tags:
 - Images
 ---
-
+1
 ![TEKNE][IMG]
 
 [IMG]: l.JPEG
-
-<img title="a title" alt="Alt text" src="Logo2.jpg">
-
+2
+<img src = "Logo2.jpg">
+3
 ![TEKNE Club](l.JPEG)
-
+4
 ![TEKNE Club Logo](Logo2.jpg)
-
-[![image](https://ibb.co/5s8m5fJ)](link)
+5
+![TEKNE Club](/static/img/Logo2.jpg)
+6
+![TEKNE Club](/static/img/l.JPEG)
