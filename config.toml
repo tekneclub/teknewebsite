@@ -1,0 +1,78 @@
+baseURL                          = ""
+DefaultContentLanguage           = "en"
+
+[params]
+    themeStyle                   = "dark"
+    favicon                      = "/img/favicon.png"
+    showMenu                     = true 
+    showRSSButton                = false
+    fadeIn                       = false
+    fadeInIndex                  = true
+    dateFormat                   = "Jan 2, 2006"
+    email                        = "clubtechne@gmail.com"
+
+    # Configure the home page
+    [params.home]
+        introHeight              = "fullheight"
+        showLatest               = true
+        showAllPosts             = false
+        allPostsArchiveFormat    = true
+        numberOfProjectsToShow   = 3
+        localTime                = false
+        timeFormat               = "en-US"
+    [params.projects]
+        useTwoColumns            = false
+
+    # Share buttons on blog post pages
+    [params.share]
+        twitter                  = false
+        facebook                 = false
+        pinterest                = false
+
+    [[params.social]]
+        url   = "https://discord.gg/Jc9A76pR"
+        icon  = "discord"
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://www.facebook.com/profile.php?id=100088386282808&mibextid=ZbWKwL"
+        icon  = "facebook-f"
+        icon_pack = "fab"
+    [[params.social]]
+        url   = "https://instagram.com/tekne__club?igshid=NDk5N2NlZjQ="
+        icon  = "instagram"
+        icon_pack = "fab"
+    [[params.social]]
+        url = "mailto:clubtechne@gmail.com"
+        icon = "paper-plane"
+        icon_pack = "fas"
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    style = "solarized-dark"
+    tabWidth = 4
+
+[languages]
+    [languages.en]
+        languageName     = "English"
+        languageCode     = "en-us"
+        contentDir       = "content/"
+        weight           = 0
+        title            = "TEKNE Club"
+        [languages.en.params]
+            description  = "TEKNE's Website"
+            footerText   = "© TEKNE Club"
+
