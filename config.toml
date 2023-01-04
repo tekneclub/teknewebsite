@@ -43,7 +43,7 @@ DefaultContentLanguage           = "en"
         icon_pack = "fab"
     [[params.social]]
         url = "mailto:clubtechne@gmail.com"
-        icon = "paper-plane"
+        icon = "envelope"
         icon_pack = "fas"
 
 [taxonomies]
