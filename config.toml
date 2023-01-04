@@ -30,15 +30,15 @@ DefaultContentLanguage           = "en"
         pinterest                = false
 
     [[params.social]]
-        url   = "https://discord.gg/Jc9A76pR"
+        url   = "https://discord.gg/3Wv7VvadeY"
         icon  = "discord"
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://www.facebook.com/profile.php?id=100088386282808&mibextid=ZbWKwL"
+        url   = "https://www.facebook.com/profile.php?id=100088386282808"
         icon  = "facebook-f"
         icon_pack = "fab"
     [[params.social]]
-        url   = "https://instagram.com/tekne__club?igshid=NDk5N2NlZjQ="
+        url   = "https://www.instagram.com/tekne__club/"
         icon  = "instagram"
         icon_pack = "fab"
     [[params.social]]
