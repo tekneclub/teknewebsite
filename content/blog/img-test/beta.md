@@ -11,12 +11,24 @@ tags:
 
 [IMG]: l.JPEG
 2
-<img src = "Logo2.jpg">
+<img src = "/static/img/l.JPEG">
 3
-![TEKNE Club](l.JPEG)
+
+![tekne](/blg/images/Logo2.jpg)
+3-1
+![tekne](/blg/images/l.JPEG)
 4
 ![TEKNE Club Logo](Logo2.jpg)
 5
 ![TEKNE Club](/static/img/Logo2.jpg)
 6
 ![TEKNE Club](/static/img/l.JPEG)
+
+7   
+![Exampleimage](/t.jpg)
+8
+![Exampleimage](/k.JPEG)
+
+9
+
+![Exampleimage](k.JPEG)
