@@ -11,6 +11,7 @@ tags:
 
 [IMG]: l.JPEG
 
+<img title="a title" alt="Alt text" src="Logo2.jpg">
 
 ![TEKNE Club](l.JPEG)
 
